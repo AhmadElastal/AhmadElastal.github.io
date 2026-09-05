@@ -12,7 +12,7 @@ import {
   Smartphone,
   X,
 } from 'lucide-react'
-import profileImage from './assets/dev-ahmad.png'
+import profileImage from './assets/profile.png'
 
 type Lang = 'ar' | 'en'
 
